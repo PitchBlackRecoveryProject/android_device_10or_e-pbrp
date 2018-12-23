@@ -16,8 +16,8 @@ PRODUCT_PACKAGES += \
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := e
-PRODUCT_BRAND := 10. or
+PRODUCT_BRAND := Tenor
 PRODUCT_MODEL := E
-PRODUCT_MANUFACTURER := 10. or
+PRODUCT_MANUFACTURER := Tenor
 
 PRODUCT_NAME := omni_e
